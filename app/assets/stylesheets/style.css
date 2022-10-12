@@ -54,6 +54,11 @@ a {
 .logo {
   width: 200px;
 }
+.nav__left {
+  width: 200px;
+  color: blue;
+  font-size: 20px;
+}
 .nav__btn{
   display: inline-block;
   padding: 0.4em 1.6em;
